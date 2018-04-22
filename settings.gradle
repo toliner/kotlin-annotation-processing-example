@@ -1,0 +1,3 @@
+rootProject.name = 'kotlin-annotation-processing-example'
+include 'annotation-processor'
+
