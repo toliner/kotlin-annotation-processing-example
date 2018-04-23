@@ -14,12 +14,9 @@ buildscript {
 
 apply plugin: 'kotlin'
 
-repositories {
-    mavenCentral()
-}
-
 dependencies {
     compile "org.jetbrains.kotlin:kotlin-stdlib-jdk8:$kotlin_version"
+    compile 'com.github.yanex:takenoko:0.1'
 }
 
 compileKotlin {
