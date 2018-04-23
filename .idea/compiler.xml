@@ -4,6 +4,8 @@
     <bytecodeTargetLevel>
       <module name="annotation-processor_main" target="1.8" />
       <module name="annotation-processor_test" target="1.8" />
+      <module name="example_main" target="1.8" />
+      <module name="example_test" target="1.8" />
       <module name="kotlin-annotation-processing-example_main" target="1.8" />
       <module name="kotlin-annotation-processing-example_test" target="1.8" />
     </bytecodeTargetLevel>

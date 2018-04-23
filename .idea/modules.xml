@@ -5,6 +5,9 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/annotation-processor.iml" filepath="$PROJECT_DIR$/.idea/modules/annotation-processor.iml" group="annotation-processor" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/annotation-processor/annotation-processor_main.iml" filepath="$PROJECT_DIR$/.idea/modules/annotation-processor/annotation-processor_main.iml" group="annotation-processor" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/annotation-processor/annotation-processor_test.iml" filepath="$PROJECT_DIR$/.idea/modules/annotation-processor/annotation-processor_test.iml" group="annotation-processor" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/example.iml" filepath="$PROJECT_DIR$/.idea/modules/example.iml" group="example" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/example/example_main.iml" filepath="$PROJECT_DIR$/.idea/modules/example/example_main.iml" group="example" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/example/example_test.iml" filepath="$PROJECT_DIR$/.idea/modules/example/example_test.iml" group="example" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin-annotation-processing-example.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin-annotation-processing-example.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin-annotation-processing-example_main.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin-annotation-processing-example_main.iml" group="kotlin-annotation-processing-example" />
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/kotlin-annotation-processing-example_test.iml" filepath="$PROJECT_DIR$/.idea/modules/kotlin-annotation-processing-example_test.iml" group="kotlin-annotation-processing-example" />

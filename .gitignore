@@ -114,3 +114,10 @@ fabric.properties
 
 # Editor-based Rest Client
 .idea/httpRequests
+
+
+annotation-processor/build/
+example/build/*
+!example/build/generated
+example/build/generated/*
+!example/build/generated/source
